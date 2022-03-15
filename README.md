@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iniakpothompson
 - 👀 I’m interested in Blockchain and DLT, Cryprocurrency, Semantic Web and NLP
-- 🌱 I’m currently learning Blockchain Programming
+- 🌱 I’m currently doing some Blockchain Programming Tasks with Python
 - 💞️ I’m looking to collaborate on research Software development projects in my areas of interest 
 - 📫 Reach me through iniakpothompson@gmail.com, iniakpothompson.edu@gmail.com, iniakpothompson.coins@gmail.com
 
